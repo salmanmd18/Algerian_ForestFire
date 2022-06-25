@@ -1,0 +1,11 @@
+Flask
+numpy
+pandas
+pymongo
+scikit_learn==0.024.2
+gunicorn
+pymongo[srv]
+Jinja2
+Werkzeug
+Flask
+matplotlib
